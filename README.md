@@ -19,5 +19,8 @@ https://play.google.com/store/apps/details?id=com.namaait.adam
 Create API and Control Panel for HayatAfdal App
 https://play.google.com/store/apps/details?id=com.namaait.hayatafdal
 
+Create API and Control Panel for Tahlily App
+https://play.google.com/store/apps/details?id=com.namaait.tahlili
+
 MSP Team Website
 http://alazhartc.azurewebsites.net/
