@@ -1,3 +1,4 @@
+
 # My Projects
 
 Hi! here you can browse my projects, som of these projects are available on live server and others are available on Local on My Device.
@@ -5,7 +6,7 @@ Hi! here you can browse my projects, som of these projects are available on live
 # NamaaIT
 [Visit Website](https://www.namaait.com)
 
-NamaaIT is a website for my previous company that i was working in it
+**NamaaIT** is a website for my previous company that i was working in it.
 this project i created it from A-Z ( Designing, Implementation, Deploying ). 
 i developed Front-end and Back-end with Full Dashboard for Manage website.
 ### Technologies
@@ -18,7 +19,7 @@ i developed Front-end and Back-end with Full Dashboard for Manage website.
 # EL Delta Elctronic Systems
 [Visit Website](https://el-delta.com)
 
-EL Delta is a website for Elctronic Systems. 
+**EL Delta** is a website for Elctronic Systems. 
 also this project i created it from A-Z ( Designing, Implementation, Deploying ). i developed Front-end and Back-end with Full Dashboard for Manage website.
 ### Technologies
  - HTML, CSS, Bootstrap, jQuery
@@ -31,7 +32,7 @@ also this project i created it from A-Z ( Designing, Implementation, Deploying )
 # RBZGO
 [Visit Website](https://rbzgo.com)
 
-RbzGO is a Social media application. 
+**RbzGO** is a Social media application. 
 this project took me a long time. i developed Back-end with Full Dashboard for Manage website.
 ### Technologies
  - VueJS for Front-end
@@ -44,7 +45,7 @@ this project took me a long time. i developed Back-end with Full Dashboard for M
 # Widan Cleaning Services
 [Visit Website](https://widancleaning.ae)
 
-Widan Cleaning Services is a Booking Website for UAE company that provide cleaning services like ( Housekeeping, office cleaning, ...etc ). 
+**Widan Cleaning Services** is a Booking Website for UAE company that provide cleaning services like ( Housekeeping, office cleaning, ...etc ). 
 in this projects i made booking system, users can book service for a specific day and time, then the website will looking for if this day and time are available based on employees count are available.
 i developed Back-end with Full Dashboard for Manage website.
 ### Technologies
@@ -57,7 +58,7 @@ i developed Back-end with Full Dashboard for Manage website.
 # Fwaterk
 [Visit Website](https://fwaterk.net)
 
-Fwaterk is an online service for Manage Sales and Purchase Invoices through save the bill and refer to it at any time, also you can view, download, update and delete bill 
+**Fwaterk** is an online service for Manage Sales and Purchase Invoices through save the bill and refer to it at any time, also you can view, download, update and delete bill 
 i developed Back-end with Full Dashboard for Manage website.
 
 ### Technologies
@@ -69,7 +70,7 @@ i developed Back-end with Full Dashboard for Manage website.
 
 # Polaris System ( ERP )
 	#### Available Local on My Device
-Polaris is an ERP System that provide an API for Mobile App to view products and each customer can make an Order, one API but handle many applications some of these apps are
+**Polaris** is an ERP System that provide an API for Mobile App to view products and each customer can make an Order, one API but handle many applications some of these apps are
  - [https://play.google.com/store/apps/details?id=com.namaait.wrapexpress](https://play.google.com/store/apps/details?id=com.namaait.wrapexpress)
  - [https://play.google.com/store/apps/details?id=com.namaait.sa3edymarket](https://play.google.com/store/apps/details?id=com.namaait.sa3edymarket)
  - [https://play.google.com/store/apps/details?id=com.namaait.deodela](https://play.google.com/store/apps/details?id=com.namaait.deodela)
@@ -96,7 +97,7 @@ in this project i used SCOPE for each Organization to manage its Dashboard.
 [Visit Website](http://nmait.net/adam)
 
 i was Participate in Adam pharmacies Website.
-Adam pharmacies is an online medical service that can provide online shopping for its products, Medical Consulting, Ask for Advice, medicine reminder system, Knowledge Base and Blogs.
+**Adam pharmacies** is an online medical service that can provide online shopping for its products, Medical Consulting, Ask for Advice, medicine reminder system, Knowledge Base and Blogs.
 
 ### Technologies
  - HTML, CSS, Bootstrap, jQuery
@@ -114,7 +115,7 @@ API : Available Local
 App : [App URL](https://play.google.com/store/apps/details?id=com.namaait.hayatafdal)
 ```
 
-HayatAfdal is an online consulting service that you can register and order a consulting from Consultants with free plan and premium plan.
+**HayatAfdal** is an online consulting service that you can register and order a consulting from Consultants with free plan and premium plan.
 
 ### Technologies
  - Laravel framework
@@ -131,7 +132,7 @@ API : Available Local
 App : [App URL](https://play.google.com/store/apps/details?id=com.namaait.tahlili)
 ```
 
-Tahlily is an analytical application that helps you to book an appointment with specialized technicians, who come home to take a sample from you and hand it over to the specialized laboratories.
+**Tahlily** is an analytical application that helps you to book an appointment with specialized technicians, who come home to take a sample from you and hand it over to the specialized laboratories.
 You can also receive the results of the tests through the application without the trouble of going to the laboratory.
 
 ### Technologies
@@ -148,7 +149,7 @@ API : Available Local
 App : [App URL](https://play.google.com/store/apps/details?id=host.iview.iview654321)
 ```
 
-iView is an Mobile App for Watching Series and Episodes through membership
+**iView** is an Mobile App for Watching Series and Episodes through membership
 
 ### Technologies
  - Laravel framework
