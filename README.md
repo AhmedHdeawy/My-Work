@@ -3,7 +3,8 @@
 Hi! here you can browse my projects, som of these projects are available on live server and others are available on Local on My Device.
 
 # NamaaIT
-		[Visit Website](https://www.namaait.com)
+[Visit Website](https://www.namaait.com)
+
 NamaaIT is a website for my previous company that i was working in it
 this project i created it from A-Z ( Designing, Implementation, Deploying ). 
 i developed Front-end and Back-end with Full Dashboard for Manage website.
@@ -15,7 +16,8 @@ i developed Front-end and Back-end with Full Dashboard for Manage website.
  - Multi Languages
 
 # EL Delta Elctronic Systems
-		[Visit Website](https://el-delta.com)
+[Visit Website](https://el-delta.com)
+
 EL Delta is a website for Elctronic Systems. 
 also this project i created it from A-Z ( Designing, Implementation, Deploying ). i developed Front-end and Back-end with Full Dashboard for Manage website.
 ### Technologies
@@ -27,7 +29,8 @@ also this project i created it from A-Z ( Designing, Implementation, Deploying )
 
 
 # RBZGO
-		[Visit Website](https://rbzgo.com)
+[Visit Website](https://rbzgo.com)
+
 RbzGO is a Social media application. 
 this project took me a long time. i developed Back-end with Full Dashboard for Manage website.
 ### Technologies
@@ -39,7 +42,8 @@ this project took me a long time. i developed Back-end with Full Dashboard for M
  - Multi Languages
  
 # Widan Cleaning Services
-		[Visit Website](https://widancleaning.ae)
+[Visit Website](https://widancleaning.ae)
+
 Widan Cleaning Services is a Booking Website for UAE company that provide cleaning services like ( Housekeeping, office cleaning, ...etc ). 
 in this projects i made booking system, users can book service for a specific day and time, then the website will looking for if this day and time are available based on employees count are available.
 i developed Back-end with Full Dashboard for Manage website.
@@ -51,7 +55,8 @@ i developed Back-end with Full Dashboard for Manage website.
  - Multi Languages
 
 # Fwaterk
-		[Visit Website](https://fwaterk.net)
+[Visit Website](https://fwaterk.net)
+
 Fwaterk is an online service for Manage Sales and Purchase Invoices through save the bill and refer to it at any time, also you can view, download, update and delete bill 
 i developed Back-end with Full Dashboard for Manage website.
 
@@ -88,7 +93,8 @@ in this project i used SCOPE for each Organization to manage its Dashboard.
 
  
 # Adam Pharmacies
-		[Visit Website](http://nmait.net/adam)
+[Visit Website](http://nmait.net/adam)
+
 i was Participate in Adam pharmacies Website.
 Adam pharmacies is an online medical service that can provide online shopping for its products, Medical Consulting, Ask for Advice, medicine reminder system, Knowledge Base and Blogs.
 
@@ -103,8 +109,10 @@ Adam pharmacies is an online medical service that can provide online shopping fo
  - Multi Languages
 
 # HayatAfdal Mobile Application
-		API : Available Local
-		App : https://play.google.com/store/apps/details?id=com.namaait.hayatafdal
+```
+API : Available Local
+App : [App URL](https://play.google.com/store/apps/details?id=com.namaait.hayatafdal)
+```
 
 HayatAfdal is an online consulting service that you can register and order a consulting from Consultants with free plan and premium plan.
 
@@ -118,8 +126,10 @@ HayatAfdal is an online consulting service that you can register and order a con
 
 
 # Tahlily Mobile Application
-		API : Available Local
-		App : https://play.google.com/store/apps/details?id=com.namaait.tahlili
+```		
+API : Available Local
+App : [App URL](https://play.google.com/store/apps/details?id=com.namaait.tahlili)
+```
 
 Tahlily is an analytical application that helps you to book an appointment with specialized technicians, who come home to take a sample from you and hand it over to the specialized laboratories.
 You can also receive the results of the tests through the application without the trouble of going to the laboratory.
@@ -133,8 +143,10 @@ You can also receive the results of the tests through the application without th
  - Multi Languages
 
 # iView Mobile Application
-		API : Available Local
-		App : https://play.google.com/store/apps/details?id=host.iview.iview654321
+```
+API : Available Local
+App : [App URL](https://play.google.com/store/apps/details?id=host.iview.iview654321)
+```
 
 iView is an Mobile App for Watching Series and Episodes through membership
 
