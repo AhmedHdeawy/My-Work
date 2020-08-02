@@ -1,6 +1,6 @@
 # My Projects
 
-Hi! here you can browse my projects, som of these projects are available on live server and others are available on Locale on My Device.
+Hi! here you can browse my projects, som of these projects are available on live server and others are available on Local on My Device.
 
 # NamaaIT
 		[Visit Website](https://www.namaait.com)
