@@ -111,11 +111,9 @@ i was Participate in Adam pharmacies Website.
  - Responsive Design
  - Multi Languages
 
-# HayatAfdal Mobile Application
-```
-API : Available Local
-App : [App URL](https://play.google.com/store/apps/details?id=com.namaait.hayatafdal)
-```
+# HayatAfdal Mobile Application (GraphQL API)
+
+[App URL](https://play.google.com/store/apps/details?id=com.namaait.hayatafdal)
 
 **HayatAfdal** is an online consulting service that you can register and order a consulting from Consultants with free plan and premium plan.
 
@@ -128,11 +126,9 @@ App : [App URL](https://play.google.com/store/apps/details?id=com.namaait.hayata
  - Multi Languages
 
 
-# Tahlily Mobile Application
-```		
-API : Available Local
-App : [App URL](https://play.google.com/store/apps/details?id=com.namaait.tahlili)
-```
+# Tahlily Mobile Application (GraphQL API)
+
+[App URL](https://play.google.com/store/apps/details?id=com.namaait.tahlili)
 
 **Tahlily** is an analytical application that helps you to book an appointment with specialized technicians, who come home to take a sample from you and hand it over to the specialized laboratories.
 You can also receive the results of the tests through the application without the trouble of going to the laboratory.
@@ -145,11 +141,9 @@ You can also receive the results of the tests through the application without th
  - Download and Print Test
  - Multi Languages
 
-# iView Mobile Application
-```
-API : Available Local
-App : [App URL](https://play.google.com/store/apps/details?id=host.iview.iview654321)
-```
+# iView Mobile Application (Restful API)
+
+[App URL](https://play.google.com/store/apps/details?id=host.iview.iview654321)
 
 **iView** is an Mobile App for Watching Series and Episodes through membership
 
