@@ -17,14 +17,14 @@ i developed Front-end and Back-end with Full Dashboard for Manage website.
  - Multi Languages
 
 
-# Polaris System ( ERP )
+# Polaris System ( Multi-Vendor E-Commerce System )
 	#### Available Local on My Device
-**Polaris** is an ERP System that provide an API for Mobile App to view products and each customer can make an Order, one API but handle many applications some of these apps are
+**Polaris** is an Multi-Vendor E-Commerce System that provide an API for Mobile App to view products and each customer can make an Order, one API but handle many applications some of these apps are
  - [https://play.google.com/store/apps/details?id=com.namaait.wrapexpress](https://play.google.com/store/apps/details?id=com.namaait.wrapexpress)
  - [https://play.google.com/store/apps/details?id=com.namaait.sa3edymarket](https://play.google.com/store/apps/details?id=com.namaait.sa3edymarket)
  - [https://play.google.com/store/apps/details?id=com.namaait.deodela](https://play.google.com/store/apps/details?id=com.namaait.deodela)
 
-in this projects i made ERP System for Manage Many Organizations in the same Project, each Organization has a credentials to login into Dashboard for Manage every thing like  ( Categories, Products, Offers,  Customers, Orders, Branches, Departments, Jobs, Employees, Permissions, Logs and Settings ). and the Project has API for Mobile App that can provide org products..etc and customers can make orders. Same API but handle each org based on Org_ID 
+in this projects i made Multi-Vendor E-Commerce System for Manage Many Organizations in the same Project, each Organization has a credentials to login into Dashboard for Manage every thing like  ( Categories, Products, Offers,  Customers, Orders, Branches, Departments, Jobs, Employees, Permissions, Logs and Settings ). and the Project has API for Mobile App that can provide org products..etc and customers can make orders. Same API but handle each org based on Org_ID 
 in this project i used SCOPE for each Organization to manage its Dashboard.
 
 ### Technologies
