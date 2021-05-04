@@ -1,7 +1,34 @@
 
+
 # My Projects
 
 Hi! here you can browse my projects, som of these projects are available on live server and others are available on Local on My Device.
+
+# Robosto
+[Robosto](https://play.google.com/store/apps/details?id=com.robosto)
+
+**Robosto** is an online grocery store that brings comfort to consumers and makes their lives more comfortable by offering a wide range of fresh veggies, fruits, frozen products, groceries, and MORE!. 
+### Modules
+- Product, Categories and Sub Categories, Promotions, Area Management, Warehouse Management, Banners, Brands, Suppliers, Inventory ( Purchasing, Transferring, Adjustment ),  Customers, Orders, Drivers, Motors, Collectors, Dashboard, Bundle, Discount. Admins, Role, ACL
+### Technologies
+ - Laravel framework and MySQL DB
+ - Caching, Redis, RabbitMQ, PubSub, AWS, Algoli, Online Payment Integration
+ - Large Dashboard that manage the whole system
+ - Restful API
+
+# MeGO
+[Mego Client](https://play.google.com/store/apps/details?id=com.mego.client)
+[Mego Driver](https://play.google.com/store/apps/details?id=com.mego.driver)
+
+**MeGo** makes your ride easy, it's provide door to door ride
+
+### Technologies
+ - Laravel framework and MySQL DB
+ - Caching, Redis, PubSub
+ - Large Dashboard that manage the whole system
+ - Restful API
+
+
 
 # NamaaIT
 [Visit Website](https://www.namaait.com)
