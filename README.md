@@ -2,19 +2,44 @@
 
 # My Projects
 
-Hi! here you can browse my projects, som of these projects are available on live server and others are available on Local on My Device.
-
 # Robosto
 [Robosto](https://play.google.com/store/apps/details?id=com.robosto)
 
 **Robosto** is an online grocery store that brings comfort to consumers and makes their lives more comfortable by offering a wide range of fresh veggies, fruits, frozen products, groceries, and MORE!. 
-### Modules
-- Product, Categories and Sub Categories, Promotions, Area Management, Warehouse Management, Banners, Brands, Suppliers, Inventory ( Purchasing, Transferring, Adjustment ),  Customers, Orders, Drivers, Motors, Collectors, Dashboard, Bundle, Discount. Admins, Role, ACL
-### Technologies
- - Laravel framework and MySQL DB
- - Caching, Redis, RabbitMQ, PubSub, AWS, Algoli, Online Payment Integration
- - Large Dashboard that manage the whole system
- - Restful API
+
+- Monolithic Application with More than 20 modules
+- PHP/Laravel is a main Backend and Nodejs for some services ( Location Tracking and Chat system )
+- MySQL is a main Database and MongoDB for Chat system
+- Queueing System using RabbitMQ
+- Caching System using Redis
+- Pub/Sub to Track the location and Change Order Status
+- Event Sourcing to manage customer/driver wallets
+- Custom Algorithms to enhance delivering time
+- Design Patterns ( Abstract Factory, Cahinig of responsibility )
+- Unit Testing
+- Jenkins CI/CD
+- Restful API
+- Paymob as a Payment Gateway
+- Custom ACL
+- Modules ( Product, Categories and Sub Categories, Promotions, Area Management, Warehouse Management, Banners, Brands, Suppliers, Inventory ( Purchasing, Transferring, Adjustment ),  Customers, Orders, Drivers, Motors, Collectors, Dashboard, Bundle, Discount. Admins, Role, ACL )
+
+
+# InnoCalls
+[Innocalls](https://innocalls.com)
+
+**Innocalls** Innocalls is one of the very best softphone app for VoIP Calls. Start calling today. 
+
+- Microservices Application with More than 13 services
+- Docker and have our image that have all service container
+- Traefik as a proxy server
+- Implement Services using PHP and Nodejs
+- MySQL and MongoDB for Databases
+- Pub/Sub using Kafka
+- Queueing System using RabbitMQ
+- Caching System using Redis
+- Jenkins CI/CD
+- Restful API
+
 
 # MeGO
 [Mego Client](https://play.google.com/store/apps/details?id=com.mego.client)
